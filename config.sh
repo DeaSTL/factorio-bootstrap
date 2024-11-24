@@ -1,0 +1,8 @@
+export SERVER_ID=space-age
+export SERVER_PORT=34197
+export SERVER_HOST=0.0.0.0
+export BACKUP_ENABLED=1
+export BACKUP_LOCATION=backups
+export BACKUP_INTERVAL=2h
+export BACKUP_LIMIT=20
+export FACTORIO_VERSION=2.0.20
